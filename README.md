@@ -1,0 +1,1 @@
+# python-ile-y-z-tan-ma-sistemi
