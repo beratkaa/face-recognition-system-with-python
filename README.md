@@ -1,1 +1,1 @@
-# python-ile-y-z-tan-ma-sistemi
+# python-ile-yuz tanima sistemi
